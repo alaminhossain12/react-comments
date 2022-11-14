@@ -1,0 +1,8 @@
+.comment {
+  color: white;
+  background-color: tomato;
+  border: 2px solid tomato;
+  margin: 20px;
+  padding: 15px;
+  border-radius: 10px;
+}
